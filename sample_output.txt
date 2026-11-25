@@ -1,0 +1,12 @@
+Welcome to Fitness Membership Management System
+Enter your name: Ali
+Enter your age: 25
+
+Hello, Ali
+You are eligible for the Regular Fitness Program.
+Do you have a medical condition? (yes/no): yes
+You can proceed with registration.
+Choose Basic or Premium: Premium
+A 10% youth discount has been applied.
+We recommend a free consultation before starting.
+Monthly fee: $ 54.0

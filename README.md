@@ -1,6 +1,6 @@
 # Fitness Membership Management System
 
-![Fitness Membership Management System Demo](fitness-program-demo.png)
+![Fitness Membership Management System Demo](Screenshot_20261125_162131_Chrome.jpg)
 
 ## Project Overview
 

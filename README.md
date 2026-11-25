@@ -1,12 +1,19 @@
-Fitness Membership Management System
+# Fitness Membership Management System
 
-Project Overview
+![Fitness Membership Management System Demo](fitness-program-demo.png)
+
+## Project Overview
+
+
+
+
+
 
 The Fitness Membership Management System is a beginner Python project designed to manage fitness membership options and eligibility.
 
 It demonstrates how Python programming can be used to make decisions based on user input and membership conditions.
 
-Features
+## Features
 
 - Checks fitness program eligibility based on age.
 - Checks medical clearance requirements.
@@ -15,7 +22,7 @@ Features
 - Applies a youth discount.
 - Provides membership recommendations.
 
-Technologies Used
+## Technologies Used
 
 - Python 3
 - Conditional statements ("if", "elif", "else")
@@ -23,20 +30,20 @@ Technologies Used
 - Variables and data types
 - User input and output
 - Nested conditional statements
-
-Project Purpose
+  
+## Project Purpose
 
 This project demonstrates practical beginner-level Python programming skills through a simple fitness membership scenario.
 
-Author
+## Author
 
 Abubakar Hassan Iliyasu
 
-Project Status
+## Project Status
 
 In development.
 
-How to Run the Program
+## How to Run the Program
 
 1. Install Python 3.
 2. Download or clone this repository.
@@ -45,11 +52,12 @@ How to Run the Program
 
 python fitness_program.py
 
-Sample Output
+
+## Sample Output
 
 A sample program output is available in "sample_output.txt".
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Python programming fundamentals
 - Decision-making with conditional statements
@@ -58,7 +66,7 @@ Skills Demonstrated
 - Basic calculations
 - Problem-solving
 
-Future Improvements
+## Future Improvements
 
 - Add stronger input validation.
 - Improve membership plan options.

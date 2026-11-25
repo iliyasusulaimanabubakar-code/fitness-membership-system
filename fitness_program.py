@@ -56,6 +56,8 @@ elif membership == "premium":
     if age < 30:
         monthly_fee = monthly_fee * 0.90
         print("A 10% youth discount has been applied.")
+            if has_condition == "yes":
+        print("We recommend a free consultation before starting.")
 
     print("Monthly fee: $", monthly_fee)
 

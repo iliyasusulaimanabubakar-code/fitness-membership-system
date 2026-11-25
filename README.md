@@ -50,7 +50,9 @@ In development.
 3. Open the project folder.
 4. Run the following command:
 
+```bash
 python fitness_program.py
+```
 
 
 ## Sample Output
